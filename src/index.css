@@ -216,6 +216,15 @@ body {
   grid-template-columns: minmax(250px, 0.75fr) 1fr;
 }
 
+.social-section .text-container {
+  font-size: 18px;
+}
+
+.social-section .text-title {
+  font-size: 18px;
+}
+
+
 .section-title {
   font-family: 'EB Garamond', serif;
   font-size: 32px;
