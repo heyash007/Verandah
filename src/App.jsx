@@ -386,7 +386,7 @@ function App() {
           <div className="text-container">
             <span className="text-title">Post 04, Static, Festive Greeting</span>
             <p className="text-paragraph">
-              A seasonal goodwill post that closes the set on a human note. Instead of selling, it extends warmth to the audience and ties the holiday back to the studio's real subject, the spaces where people gather. It reinforces Verandah as a brand that cares how a home feels, not just how it looks. The illustrated, botanical treatment is a conscious step outside the core system, warmer and more decorative than the editorial posts, on the principle that a holiday greeting is the one moment a brand is allowed to loosen its collar. Used sparingly, that flex shows the identity has range without diluting it.
+              A seasonal goodwill post that closes the set on a human note. Instead of selling, it extends warmth to the audience and ties the holiday back to the studio's real subject, the spaces where people gather. It reinforces Verandah as a brand that cares how a home feels, not just how it looks. The illustrated botanical treatment is a gentle, conscious step softer than the editorial posts, on the principle that a holiday greeting is the one moment a brand can loosen its collar, used sparingly so the flex shows range without diluting the identity.
             </p>
           </div>
         </main>
